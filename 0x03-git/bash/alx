@@ -1,2 +1,4 @@
-#!/bin/bash
-echo "ALX"
+tree HEAD:
+
+0x03-git/
+README.md
